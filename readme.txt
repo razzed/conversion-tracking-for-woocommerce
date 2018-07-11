@@ -5,6 +5,7 @@ Requires at least: 4.0
 Tested up to: 4.9.4
 Stable tag: 1.0
 License: GPLv3
+Requires PHP: 5.3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Outputs WooCommerce variables on the cart, checkout, and order confirmation pages as a global named WCPAYLOAD to make integration with analytics and conversion tracking simpler.
@@ -62,10 +63,14 @@ Yes, probably. If you don't ask you don't get.
 
 = I notice you don't have any advertising or anything, what's that about? =
 
-No one really asks this question, but this is simply an excuse for me to state that I found the other plugins out there which have advertising and "Pro" upgrade plans to be annoying. So I wrote this. Enjoy.
+No one actually asks this question, but I found the other plugins out there which have advertising and "Pro" upgrade plans to be annoying. So I wrote this. Enjoy.
 
 == Changelog ==
 
 = Version 1.0 (10-July-2018) =
 
 * Initial release
+
+== Upgrade Notice ==
+
+N/A
