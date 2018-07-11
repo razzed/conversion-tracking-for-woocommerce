@@ -1,0 +1,19 @@
+<svg width="480" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#e5e5e5" stroke="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="1" y="3" width="476" height="474" id="svg_2"/>
+  <g stroke="null" id="svg_1">
+   <path stroke="#000000" fill="#ffff56" stroke-width="5" d="m99.999991,120.71013l0,37.000001l123.333338,86.333336l0,86.333336l49.333335,0l0,-86.333336l123.333338,-86.333336l0,-37.000001l-296.000011,0z" id="svg_3"/>
+   <g stroke="null" id="svg_16" transform="matrix(0.944788180633322,-0.7927714139100737,0.7927714139100737,0.944788180633322,-71.75298513531226,165.05395388898788) ">
+    <path stroke="#000000" fill="#000000" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m241.347201,97.237884l-23.333334,58.333335l17.500001,-5.833334l0,29.166668l11.666667,0l0,-29.166668l17.500001,5.833334l-23.333334,-58.333335l-0.000001,0z" id="svg_9"/>
+    <line stroke="#000000" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="241.347201" y1="85.571217" x2="241.347201" y2="68.071216" id="svg_10"/>
+    <line stroke="#000000" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="253.013868" y1="91.40455" x2="264.680535" y2="79.737883" id="svg_12"/>
+    <line stroke="#000000" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="229.680534" y1="91.40455" x2="218.013867" y2="79.737883" id="svg_13"/>
+    <line stroke="#000000" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="223.847201" y1="103.071217" x2="206.3472" y2="103.071217" id="svg_14"/>
+    <line stroke="#000000" fill="none" stroke-width="5" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="258.847202" y1="103.071217" x2="276.347202" y2="103.071217" id="svg_15"/>
+   </g>
+   <text stroke="#000000" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="172.180873" y="306.717256" id="svg_17" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(5.344444833485847,0,0,5.344444833485847,-670.5667318688709,-1204.4344173002817) ">$€</text>
+  </g>
+ </g>
+</svg>
