@@ -1,6 +1,6 @@
 <?php
 /*
- Plugin Name: JavaScript Conversions for WooCommerce
+ Plugin Name: Conversion Tracking for WooCommerce
  Plugin URI: https://marketacumen.com/?crcat=wp-plugin&crsource=conversion-tracking-for-woocommerce&crcpn=plugin&crkw=plugin-uri
  Description: Outputs JavaScript variables for various steps in your order process, making it very easy to integrate with most analytics packages.
  Version: 1.0
