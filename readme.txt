@@ -48,9 +48,9 @@ There is currently no configuration of this plugin, but to confirm it's working 
 
 == Frequently Asked Questions ==
 
-= Does it work with WooCommerce 2.x and 3.x? =
+= Does it work with WooCommerce 2 and WooCommerce 3? =
 
-Yes, the plugin should work with both with the latest v3.x and the older 2.x versions. Testing with 2.x has not been extensive so if you find issues, please contact us and report any bugs.
+Yes, there are compatibility code written which detects what's available and then does the right thing. Testing with WooCommerce 2 has not been extensive so if you find issues, please contact us and report any bugs. We like to be responsive.
 
 = I installed it but it doesn't seem to do anything? =
 
