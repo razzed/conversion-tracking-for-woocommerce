@@ -3,3 +3,4 @@ composer.phar
 .buildpath
 .project
 .settings
+deployment.properties
